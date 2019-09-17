@@ -1,0 +1,6 @@
+use_frameworks!
+target 'SwiftyCategories_Tests' do
+  pod 'SwiftyCategories', :path => '../'
+  
+  
+end
