@@ -1,0 +1,16 @@
+PODS:
+  - SwiftyCategories (0.1.0)
+
+DEPENDENCIES:
+  - SwiftyCategories (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftyCategories:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SwiftyCategories: cb81a628d577ac6370c0db89c0475878dcf7b0d9
+
+PODFILE CHECKSUM: 872bb2027e10c88a6c74be1154ec9274b44d97a9
+
+COCOAPODS: 1.7.4

@@ -1,0 +1,22 @@
+{
+  "name": "SwiftyCategories",
+  "version": "0.1.0",
+  "summary": "SwiftyCategories.",
+  "description": "Short Description.",
+  "homepage": "https://github.com/byteslick/Swifty-Categories",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "byteslick": "byteslick@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/byteslick/Swifty-Categories.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.3"
+  },
+  "source_files": "SwiftyCategories/Classes/**/*"
+}

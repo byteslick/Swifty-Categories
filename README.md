@@ -1,6 +1,6 @@
 # SwiftyCategories
 
-[![CI Status](https://img.shields.io/travis/Madhup Yadav/SwiftyCategories.svg?style=flat)](https://travis-ci.org/Madhup Yadav/SwiftyCategories)
+[![CI Status](https://img.shields.io/travis/byteslick/SwiftyCategories.svg?style=flat)](https://travis-ci.org/byteslick/SwiftyCategories)
 [![Version](https://img.shields.io/cocoapods/v/SwiftyCategories.svg?style=flat)](https://cocoapods.org/pods/SwiftyCategories)
 [![License](https://img.shields.io/cocoapods/l/SwiftyCategories.svg?style=flat)](https://cocoapods.org/pods/SwiftyCategories)
 [![Platform](https://img.shields.io/cocoapods/p/SwiftyCategories.svg?style=flat)](https://cocoapods.org/pods/SwiftyCategories)
@@ -22,7 +22,7 @@ pod 'SwiftyCategories'
 
 ## Author
 
-Madhup Yadav, madhup@jixtra.com
+byteslick, byteslick@gmail.com
 
 ## License
 

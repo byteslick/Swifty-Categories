@@ -1,0 +1,6 @@
+framework module SwiftyCategories {
+  umbrella header "SwiftyCategories-umbrella.h"
+
+  export *
+  module * { export * }
+}
